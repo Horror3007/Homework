@@ -12,7 +12,7 @@ var products = [
         name: "Товар 2",
         category: "Категорія 2",
         price: 1000,
-        emoji: "💔",
+        emoji: "🥀",
         desc: "Опис товару 2"
     },
     {
@@ -20,7 +20,7 @@ var products = [
         name: "Товар 3",
         category: "Категорія 3",
         price: 1000,
-        emoji: "💔",
+        emoji: "🍐",
         desc: "Опис товару 3"
     },
     {
@@ -28,7 +28,7 @@ var products = [
         name: "Товар 4",
         category: "Категорія 4",
         price: 1000,
-        emoji: "💔",
+        emoji: "😔",
         desc: "Опис товару 4"
     },
     {
@@ -36,7 +36,7 @@ var products = [
         name: "Товар 5",
         category: "Категорія 5",
         price: 1000,
-        emoji: "💔",
+        emoji: "💛",
         desc: "Опис товару 5"
     },
     {
@@ -44,7 +44,7 @@ var products = [
         name: "Товар 6",
         category: "Категорія 6",
         price: 1000,
-        emoji: "💔",
+        emoji: "🦌",
         desc: "Опис товару 6"
     },
     {
@@ -52,8 +52,16 @@ var products = [
         name: "Товар 7",
         category: "Категорія 7",
         price: 1000,
-        emoji: "💔",
+        emoji: "🚘",
         desc: "Опис товару 7"
+    },
+    {
+        id: 8,
+        name: "Товар 8",
+        category: "Категорія 8",
+        price: 1000,
+        emoji: "🥖",
+        desc: "Опис товару 8"
     }
 ];
 
