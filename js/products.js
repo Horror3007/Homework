@@ -1,67 +1,67 @@
 var products = [
     {
         id: 1,
-        name: "Товар 1",
-        category: "Категорія 1",
+        name: "da binky",
+        category: "Something ig",
         price: 1000,
-        emoji: "💔",
-        desc: "Опис товару 1"
+        emoji: "👶",
+        desc: "Dog with da binky"
     },
     {
         id: 2,
-        name: "Товар 2",
-        category: "Категорія 2",
-        price: 1000,
-        emoji: "🥀",
-        desc: "Опис товару 2"
+        name: "JACKPOT🎲🎲🎲",
+        category: "Something ig",
+        price: 777,
+        emoji: "🎰",
+        desc: "Hold on wait..."
     },
     {
         id: 3,
-        name: "Товар 3",
-        category: "Категорія 3",
+        name: "PEAR",
+        category: "Food",
         price: 1000,
         emoji: "🍐",
-        desc: "Опис товару 3"
+        desc: "teto."
     },
     {
         id: 4,
-        name: "Товар 4",
-        category: "Категорія 4",
+        name: "Dang man",
+        category: "Something ig",
         price: 1000,
         emoji: "😔",
-        desc: "Опис товару 4"
+        desc: "I was so close twin"
     },
     {
         id: 5,
-        name: "Товар 5",
-        category: "Категорія 5",
+        name: "💛piss💛",
+        category: "mystery gift",
         price: 1000,
         emoji: "💛",
-        desc: "Опис товару 5"
+        desc: "Pihh."
     },
     {
         id: 6,
-        name: "Товар 6",
-        category: "Категорія 6",
+        name: "WOAH",
+        category: "Something ig",
         price: 1000,
-        emoji: "🦌",
-        desc: "Опис товару 6"
+        emoji: "👀",
+        desc: "Did you see that???"
     },
     {
         id: 7,
-        name: "Товар 7",
-        category: "Категорія 7",
+        name: "Truck",
+        category: "Vechicle",
         price: 1000,
         emoji: "🚘",
-        desc: "Опис товару 7"
+        desc: "Get a free beer for buying "
     },
     {
         id: 8,
-        name: "Товар 8",
-        category: "Категорія 8",
+        name: "baguette",
+        category: "Food",
         price: 1000,
         emoji: "🥖",
-        desc: "Опис товару 8"
+        desc: "I HATE FRENCH"
     }
 ];
 
