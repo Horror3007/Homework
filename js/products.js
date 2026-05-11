@@ -3,7 +3,7 @@ var products = [
         id: 1,
         name: "da binky",
         category: "Something ig",
-        price: 1000,
+        price: 87,
         emoji: "👶",
         desc: "Dog with da binky"
     },
@@ -19,7 +19,7 @@ var products = [
         id: 3,
         name: "PEAR",
         category: "Food",
-        price: 1000,
+        price: 220,
         emoji: "🍐",
         desc: "teto."
     },
@@ -27,7 +27,7 @@ var products = [
         id: 4,
         name: "Dang man",
         category: "Something ig",
-        price: 1000,
+        price: 275,
         emoji: "😔",
         desc: "I was so close twin"
     },
@@ -35,7 +35,7 @@ var products = [
         id: 5,
         name: "💛piss💛",
         category: "mystery gift",
-        price: 1000,
+        price: 9999,
         emoji: "💛",
         desc: "Pihh."
     },
@@ -43,7 +43,7 @@ var products = [
         id: 6,
         name: "WOAH",
         category: "Something ig",
-        price: 1000,
+        price: 755,
         emoji: "👀",
         desc: "Did you see that???"
     },
@@ -51,7 +51,7 @@ var products = [
         id: 7,
         name: "Truck",
         category: "Vechicle",
-        price: 1000,
+        price: 705,
         emoji: "🚘",
         desc: "Get a free beer for buying "
     },
@@ -59,7 +59,7 @@ var products = [
         id: 8,
         name: "baguette",
         category: "Food",
-        price: 1000,
+        price: 120,
         emoji: "🥖",
         desc: "I HATE FRENCH"
     }

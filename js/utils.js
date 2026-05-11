@@ -7,6 +7,7 @@ function createProductCard(p) {
         '<div class="product-info">' +
             '<div class="product-name">' + p.name + "</div>" +
             '<div class="product-category">' + p.category + "</div>" +
+            '<div class="product-desc">' + p.desc + '</div>' +
             '<div class="product-footer">' +
                 '<div class="product-price">' + p.price + "</div>" +
                 '<button class="btn-add">' + "Кошик" + "</button>" +
@@ -21,4 +22,19 @@ function createProductCard(p) {
     })
 
     return a;
+}
+
+let toastTimer = null;
+
+function showToast(msg) {
+    let el = document.getElementById("toast");
+    if (!el) return;
+
+    el.textContent = msg;
+    el.classList.add("show");
+
+    if (toastTimer) clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () {
+        el.classList.remove("show");
+    }, 2000);
 }
