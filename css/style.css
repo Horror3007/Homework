@@ -203,6 +203,9 @@ nav {
 
 .hero {
     background: linear-gradient(135deg, #4c3d6e 0%, #7737c0 100%);
+    background-image: url("https://i.redd.it/a3ftzqi7ide71.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #fff;
     padding: 80px 24px;
     text-align: center;
@@ -294,6 +297,7 @@ footer {
 .about-section h2 {
     font-size: 32px;
     margin-bottom: 20px;
+    color: var(--accent);
 }
 
 .about-section p {
