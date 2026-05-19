@@ -12,7 +12,7 @@ var products = [
         name: "RGB Xracer keyboard ",
         category: "Keyboards",
         price: 1350,
-        emoji: "🎹",
+        emoji: "⌨️",
         desc: "Customizable RGB keyboard"
     },
     {
@@ -20,7 +20,7 @@ var products = [
         name: "logistep mouse",
         category: "Mouses",
         price: 1100,
-        emoji: "🖱",
+        emoji: "🖱️",
         desc: "Comfortable mouse for work and gaming"
     },
     {
@@ -28,7 +28,7 @@ var products = [
         name: "4K HQ monitor",
         category: "Monitors",
         price: 2500,
-        emoji: "💻",
+        emoji: "🖥️",
         desc: "4K monitor 60cm"
     },
     {
@@ -60,7 +60,7 @@ var products = [
         name: "RGB Bloodes mouse",
         category: "Mouses",
         price: 900,
-        emoji: "🖱",
+        emoji: "🖱️",
         desc: "Customizable RGB mouse for gaming"
     },
     {
@@ -92,7 +92,7 @@ var products = [
         name: "Logistep mouse 2",
         category: "Mouses",
         price: 1500,
-        emoji: "🖱",
+        emoji: "🖱️",
         desc: "A mouse for studing and working with comfort"
     },
     {
@@ -100,7 +100,7 @@ var products = [
         name: "Bloodes mouse 5.6",
         category: "Mouses",
         price: 1200,
-        emoji: "🖱",
+        emoji: "🖱️",
         desc: "The newest mouse from Bloodes"
     },
     {
@@ -108,7 +108,7 @@ var products = [
         name: "HQ mouse",
         category: "Mouses",
         price: 1350,
-        emoji: "🖱",
+        emoji: "🖱️",
         desc: "Mouse for multiple tasks for any person"
     },
     {
@@ -116,7 +116,7 @@ var products = [
         name: "Logistep Keyboard",
         category: "Keyboards",
         price: 1350,
-        emoji: "🎹",
+        emoji: "⌨️",
         desc: "Confortable small keyboard"
     },
     {
@@ -124,7 +124,7 @@ var products = [
         name: "Keyboard HQ M7 Black",
         category: "Keyboards",
         price: 1000,
-        emoji: "🎹",
+        emoji: "⌨️",
         desc: "Black keyboard from HQ"
     },
     {
@@ -132,7 +132,7 @@ var products = [
         name: "Keyboard HQ M7 White",
         category: "Keyboards",
         price: 1000,
-        emoji: "🎹",
+        emoji: "⌨️",
         desc: "White keyboard from HQ"
     },
     {
@@ -140,7 +140,7 @@ var products = [
         name: "Keyboard HQ M7 Black",
         category: "Keyboards",
         price: 1000,
-        emoji: "🎹",
+        emoji: "⌨️",
         desc: "Black keyboard from HQ"
     },
     {
@@ -164,7 +164,7 @@ var products = [
         name: "Logistep Monitor Black",
         category: "Monitors",
         price: 2100,
-        emoji: "💻",
+        emoji: "🖥️",
         desc: "Black monitor from Logistep"
     },
     {
@@ -172,7 +172,7 @@ var products = [
         name: "Xracer Monitor s-6",
         category: "Monitors",
         price: 2500,
-        emoji: "💻",
+        emoji: "🖥️",
         desc: "Elite display and good quality"
     },
     {
@@ -180,7 +180,7 @@ var products = [
         name: "Logistep Monitor White",
         category: "Monitors",
         price: 2000,
-        emoji: "💻",
+        emoji: "🖥️",
         desc: "White monitor from Logistep"
     }
 
