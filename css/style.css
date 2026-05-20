@@ -303,7 +303,7 @@ footer {
 .about-section p {
     font-size: 16px;
     line-height: 1.8;
-    color: #444;
+    color: #000000;
     margin-bottom: 16px;
 }
 
@@ -327,11 +327,11 @@ footer {
 
 .about-card p {
     font-size: 13px;
-    color: var(--muted)
+    color: black;
 }
 
 .about-card {
-    background: var(--surface);
+    background: rgb(188, 161, 255);
     border: 1px solid var(--botder);
     border-radius: var(--radius);
     padding: 24px;
